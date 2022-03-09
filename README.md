@@ -1,5 +1,5 @@
 # Docker compose demo
-This repository is the part of the article [Docker Compose Demo](https://programerat.github.io/2022/01/si-te-perdorim-docker-compose).
+This repository is the part of this article [Docker Compose Demo](https://programerat.github.io/2022/01/si-te-perdorim-docker-compose).
 
 ### How do run docker compose?
 
