@@ -4,6 +4,7 @@ This repository is the part of this article [Docker Compose Demo](https://progra
 ### How do run docker compose?
 
 `docker compose up`
+
 `docker compose up --build`
 
 ### How to stop docker compose?
